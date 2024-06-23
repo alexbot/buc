@@ -10,6 +10,7 @@ Materiale suprafete:
 Note semnificative:
 - Inaltime corpuri cu blat: 93cm - pentru a putea acomoda masina spalat vase, si ajunge la nivel cu pervaz geam
 - Depozitele se deschid cu usa
+- Golele pentru compartimentele de sub blat sunt doar imediat sub blat, celelalte compartimente se deschid cu push
 
 ## Corp "frigider"
 
@@ -17,8 +18,8 @@ Note semnificative:
 
 Compartimente, jos-sus:
 - Plinta
-- Congelator: MDF HG13 la fata, deschidere cu gola
-- [Frigider](https://www.grundig.com/content/dam/rainbow-grundig-romania-ro-aem/rainbow-grundig-romania-ro-aemProductCatalog/product-documents/7278749504-GKNI6950FHN/en-US-7278749504-202203081302731-Installation-Diagramen-US.pdf): MDF HG13 la fata, PAL H1318 lateral dreapta, deschidere cu gola
+- Congelator: MDF HG13 la fata, deschidere cu maner
+- [Frigider](https://www.grundig.com/content/dam/rainbow-grundig-romania-ro-aem/rainbow-grundig-romania-ro-aemProductCatalog/product-documents/7278749504-GKNI6950FHN/en-US-7278749504-202203081302731-Installation-Diagramen-US.pdf): MDF HG13 la fata, PAL H1318 lateral dreapta, deschidere cu maner
 - Depozit: MDF HG13 la fata, deschidere cu push
 
 Note semnificative:
@@ -27,6 +28,7 @@ Note semnificative:
 - Latime cat mai mica pt a distribui cat mai mult blatului din dreapta
 - Separarea dintre congelator si frigider sa fie la nivelul blatului
 - Separarea dintre frigider si depozit sa fie la nivelul ultimului corp suspendat din dreapta
+- Depozitul are in partea stanga o masca, "perete" fals, care permite trecerea tevilor
 
 ## Corp "electrocasnice1"
 
@@ -35,9 +37,9 @@ Note semnificative:
 Compartimente, jos-sus si stanga-dreapta:
 - Plinta
 - Depozit: MDF HG13 la fata, 1 raft orizontal la mijloc, deschidere cu gola
-- 2 x Sertar h20: MDF HG13 la fata, deschidere cu gola
+- 2 x Sertar: MDF HG13 la fata, deschidere cu push
 - [Microunde](https://www.emag.ro/cuptor-cu-microunde-incorporabil-electrolux-25-l-900w-grill-alb-lms4253tmw/pd/D6SSHQBBM/#specification-section): MDF HG13 la fata, deschidere cu gola
-- 1 x Sertar h20: MDF HG13 la fata, deschidere cu gola
+- 1 x Sertar: MDF HG13 la fata, deschidere cu push
 - [Cuptor](https://www.emag.ro/cuptor-incorporabil-electrolux-electric-72-l-autocuratare-catalitica-grill-sensecook-touch-control-timer-clasa-a-alb-eoe7c31v/pd/D509TQBBM/#specification-section): MDF HG13 la fata, deschidere cu gola
 - Jolly: MDF HG13 la fata
 - Blat: H1318
@@ -45,6 +47,8 @@ Compartimente, jos-sus si stanga-dreapta:
 
 Note semnificative:
 - Jolly de 14cm latime pentru a profita de cat mai multa latime la depozit
+- Sertarul de sub microunde, cel de langa plinta, e de aceeasi inaltime cu cel de sub cuptor
+- Sertarul imadiat de sub microunde ocupa inaltimea ramasa
 
 ## Corp "suspendat"
 
